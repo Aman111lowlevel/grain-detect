@@ -1,0 +1,20 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+
+# Previews & Temporary Test Crops
+preview_*.jpg
+crop_*.jpg
+temp_*
+*.tmp
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini

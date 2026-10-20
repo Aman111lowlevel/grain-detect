@@ -1,0 +1,15 @@
+data/obj_train_data/Scan77.txt
+data/obj_train_data/Scan78.txt
+data/obj_train_data/Scan80.txt
+data/obj_train_data/scan79.txt
+data/obj_train_data/scan81.txt
+data/obj_train_data/scan82.txt
+data/obj_train_data/scan83.txt
+data/obj_train_data/scan84.txt
+data/obj_train_data/scan85.txt
+data/obj_train_data/scan86.txt
+data/obj_train_data/scan87.txt
+data/obj_train_data/scan88.txt
+data/obj_train_data/scan89.txt
+data/obj_train_data/scan90.txt
+data/obj_train_data/scan91.txt
